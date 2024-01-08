@@ -1,0 +1,1 @@
+(pattern.match(/\b^(ALTER | CREATE | DELETE | DROP | EXEC (UTE) {0,1} | INGERT (\s+INTO) {0,1} |MERGE | SELECT | UPDATE | UNION (\s+ALL) {0,1}\b/i))
